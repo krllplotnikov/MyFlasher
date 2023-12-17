@@ -1,0 +1,10 @@
+D:\MCU\MyFlasher\MyFlasher\MyFlasher\bin\Debug\MyFlasher.exe.config
+D:\MCU\MyFlasher\MyFlasher\MyFlasher\bin\Debug\MyFlasher.exe
+D:\MCU\MyFlasher\MyFlasher\MyFlasher\bin\Debug\MyFlasher.pdb
+D:\MCU\MyFlasher\MyFlasher\MyFlasher\obj\Debug\MyFlasher.csproj.AssemblyReference.cache
+D:\MCU\MyFlasher\MyFlasher\MyFlasher\obj\Debug\MyFlasher.Form1.resources
+D:\MCU\MyFlasher\MyFlasher\MyFlasher\obj\Debug\MyFlasher.Properties.Resources.resources
+D:\MCU\MyFlasher\MyFlasher\MyFlasher\obj\Debug\MyFlasher.csproj.GenerateResource.cache
+D:\MCU\MyFlasher\MyFlasher\MyFlasher\obj\Debug\MyFlasher.csproj.CoreCompileInputs.cache
+D:\MCU\MyFlasher\MyFlasher\MyFlasher\obj\Debug\MyFlasher.exe
+D:\MCU\MyFlasher\MyFlasher\MyFlasher\obj\Debug\MyFlasher.pdb
